@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title>Alphatech Studio</title>
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/custom.css">
+</head>
+<body>
+
+  <header>
+    <nav class="navbar navbar-expand-lg site-header sticky-top py-1 nav-toggler" id="navbar-menu">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarToggler">
+        <div class="container d-flex flex-column flex-md-row justify-content-between">
+          <a class="py-2 d-none d-md-inline-block" href="#">Alphatech Studio</a>
+          <a class="py-2 d-none d-md-inline-block" href="#policy">Política de Privacidade</a>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+<div class="container marketing">
+  <hr class="featurette-divider" id="policy">
+  <div class="row featurette">
+    <div class="col-md-12 order-md-2 item-content">
+      <h2 class="featurette-heading">
+        Política de
+      </br>
+      <span class="text-muted">Privacidade</span>
+    </h2>
+    <div class="spacer"></div>
+    <p class="lead">
+      <p>
+        Bem-vindo a Alphatech Studio. Sua privacidade é importante para nós.
+        A Alphatech Studio está dedicada a proteger os direitos de privacidade de nossos usuários ("usuários" ou "você"). Esta Política de Privacidade (a "Política") descreve os modos pelos quais coletamos, armazenamos, usamos e gerenciamos as informações, inclusive informações pessoais e dados que você dê ou que coletamos em relação aos nossos sites www.alphatech.studio, (os "Sites") ou qualquer jogo Alphatech Studio informado em uma plataforma móvel (por exemplo, iOS e Android) (coletivamente, o(s) "Serviço(s)"). Note que o escopo desta Política limita-se às informações e dados coletados ou recebidos pela Alphatech Studio por meio do seu uso do Serviço. A Alphatech Studio não é responsável pelas ações de terceiros, sejam pessoas ou empresas, pelo conteúdo dos produtos ou serviços desses terceiros, pelo uso das informações dadas a eles, ou quaisquer produtos ou serviços que eles possam oferecer. Qualquer link a esses sites não constitui nosso patrocínio ou afiliação a essas pessoas ou empresas.
+        Ao usar o Serviço, você está expressando que concorda com essa Política e o processamento de informações e dados, inclusive informações pessoais, da maneira informada nesta Política. Se não concordar com esses termos, não use o Serviço.
+        Se tiver perguntas ou dúvidas entre em contato conosco pelo e-mail contato@alphatech.studio.
+      </p>
+      <div class="spacer"></div>
+      <h3>Informações e dados que coletamos de você</h3>
+        Podemos coletar as seguintes informações e dados seus:
+      <br>
+      <ul>
+        <li>Informações de contato (tais como nome e endereço de e-mail)</li>
+        <li>Nome de usuário</li>
+        <li>Informações de perfil que você voluntaria (tais como foto do perfil, sexo, idade ou data de nascimento, links aos perfis ou outros sites de rede social)</li>
+        <li>Dados automaticamente coletados (tais como endereço IP, sistema operacional do seu dispositivo, tipo de navegador e idioma)</li>
+        <li>Identificadores de dispositivo móvel (tais como sua ID de dispositivo única (persistente/não persistente, tipo de hardware, endereço de controle de acesso ("MAC"), identidade do equipamento móvel internacional ("IMEI"), e o nome do dispositivo</li>
+        <li>Informações gerais de localização para o propósito de dar a você a versão correta do aplicativo</li>
+        <li>Informações precisas de geolocalização do dispositivo móvel (mas somente com seu consentimento expresso)</li>
+        <li>Dados de jogos (tais como suas interações com o jogo e com os outros jogadores dentro do jogo via arquivos de log do servidor, sua ID de jogador)</li>
+      </ul>
+      <div class="spacer"></div>
+      <h3>Como usamos suas informações</h3>
+      <br>
+        Os principais objetivos da Alphatech Studio em usar informações são criar sua conta, prestar Serviços a você, melhorar nosso Serviço, contatar você, conduzir marketing e pesquisas, e criar relatórios para uso interno. Armazenamos informações em servidores localizados nos Estados Unidos via Amazon Web Services e podemos armazenar informações em servidores e equipamento em outros países.
+      <br>
+      <br>
+        Usamos as informações coletadas por meio de nosso Serviço para as finalidades descritas nesta Política ou divulgadas a você em conexão com nosso Serviço. Por exemplo, podemos usar suas informações para:
+      <ul>
+        <li>Criar contas de jogo e permitir que usuários joguem nossos jogos;</li>
+        <li>Identificar e sugerir conexões com outros usuários da Alphatech Studio;</li>
+        <li>Operar e melhorar nosso Serviço;</li>
+        <li>Entender você e suas preferências para aprimorar sua experiência e satisfação usando nosso Serviço;</li>
+        <li>Responder aos seus comentários e perguntas e oferecer atendimento ao cliente;</li>
+        <li>Oferecer e entregar produtos e serviços que você solicitar;</li>
+        <li>Criar propaganda e marketing e informações promocionais a você;</li>
+        <li>Enviar a você informações relacionadas, inclusive confirmações, avisos técnicos, atualizações, alertas de segurança e mensagens administrativas e de suporte;</li>
+        <li>Comunicar a você promoções, prêmios, próximos eventos e outras notícias sobre produtos e serviços oferecidos pela Alphatech Studio e nossos parceiros selecionados;</li>
+        <li>Capacitar você para se comunicar com outros usuários; e</li>
+        <li>Fazer link ou combinar com outras informações que obtemos de terceiros para ajudar a entender suas preferências e fornecer a você os melhores serviços.</li>
+      </ul>
+      <div class="spacer"></div>
+      <h3>Transferência internacional</h3>
+        Podemos transferir informações que coletamos sobre você a entidades afiliadas ou outros terceiros internacionalmente e de nosso país ou jurisdição para outros países ou jurisdições pelo mundo. Observe que esses países e jurisdições podem não ter as mesmas leis de proteção de dados que a sua jurisdição, e tomamos as medidas para assegurar que salvaguardas adequadas estejam em vigor para a transferência das informações para o Brasil e o uso e divulgação de informações a seu respeito, incluindo informações pessoais, conforme descrito nesta Política.
+      <div class="spacer"></div>
+      <h3>Mudanças nesta Política</h3>
+        Poderemos atualizar esta Política para refletir as mudanças em nossos dados e práticas de privacidade de informações. Se fizermos alguma mudança, você será notificado por e-mail (a mensagem será enviada para o endereço de e-mail especificado em sua conta) ou por meio de um aviso neste site antes da mudança entrar em vigor. Recomendamos que você leia esta página periodicamente para saber das informações mais recentes sobre práticas de privacidade.
+      <div class="spacer"></div>
+      <h3>Informações de contato</h3>
+        Se tiver perguntas ou dúvidas sobre nossas práticas de privacidade de dados, ou se tiver alguma solicitação para resolver questões relacionadas às suas informações pessoais, entre em contato conosco em contato@alphatech.studio.
+      <div class="spacer"></div>
+    </p>
+  </div>
+  </div>
+
+
+<hr class="featurette-divider">
+
+</div>
+
+
+<footer class="container">
+  <p class="float-right"><a href="#">Voltar Ao Início</a></p>
+  <p> · 2020 · Alphatech Studio · <a href="#">Política de Privacidade</a> · </p>
+</footer>
+</main>
+
+
+<script src="js/bootstrap.min.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/holder.min.js"></script>
+
+
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500" preserveAspectRatio="none" style="display: none; visibility: hidden; position: absolute; top: -100%; left: -100%;"><defs><style type="text/css"></style></defs><text x="0" y="25" style="font-weight:bold;font-size:25pt;font-family:Arial, Helvetica, Open Sans, sans-serif">500x500</text></svg></body></html>
+
+</body>
